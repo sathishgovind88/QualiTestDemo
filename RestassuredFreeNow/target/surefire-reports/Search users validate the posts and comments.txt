@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Search users validate the posts and comments
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.128 s - in Search users validate the posts and comments
